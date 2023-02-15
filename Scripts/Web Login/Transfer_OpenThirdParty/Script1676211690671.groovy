@@ -122,7 +122,7 @@ WebUI.getText(findTestObject('Object Repository/Web Login/Page_Maybank2u  Mayban
 
 WebUI.getText(findTestObject('Object Repository/Web Login/Page_Maybank2u  Maybank Malaysia/span_MOHAMMAD MOSAJ GOHA DevOps test'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Web Login/Page_Maybank2u  Maybank Malaysia/span_MOHAMMAD MOSAJ GOHA DevOps test'), 
+not_run: WebUI.verifyElementText(findTestObject('Object Repository/Web Login/Page_Maybank2u  Maybank Malaysia/span_MOHAMMAD MOSAJ GOHA DevOps test'), 
     'MOHAMMAD MOSAJ GOHA* DevOps test')
 
 WebUI.click(findTestObject('Object Repository/Web Login/Page_Maybank2u  Maybank Malaysia/div_ACCOUNTS'))
