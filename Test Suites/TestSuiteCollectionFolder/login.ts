@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteCollectionEntity>
    <description></description>
-   <name>KSE Suite Collection</name>
+   <name>login</name>
    <tag></tag>
    <delayBetweenInstances>0</delayBetweenInstances>
    <executionMode>SEQUENTIAL</executionMode>
@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/WebLoginSuite/WebLoginSuiteKSE</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuiteFolder/Login_logout</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

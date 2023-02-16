@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>m2u registration</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ad3952ab-ec6d-43c7-babc-aab6c664e1b0</testCaseGuid>
+   <testCaseGuid>49e5c03c-bd55-4293-a4a1-beb9cb783429</testCaseGuid>
 </TestCaseEntity>
